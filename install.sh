@@ -305,7 +305,6 @@ port 1194
 proto tcp 
 duplicate-cn
 dev tun
-comp-lz0
 keepalive 1 180
 resolv-retry infinite 
 max-clients 1000
